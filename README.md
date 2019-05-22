@@ -1,2 +1,2 @@
-# SprinCloudStudy
-SprinCloudStudy
+# SpringCloudStudy
+SpringCloudStudy
